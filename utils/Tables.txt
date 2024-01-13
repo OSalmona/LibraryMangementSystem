@@ -1,0 +1,33 @@
+books
+{
+    id ,
+    title , 
+    author , 
+    isbn , 
+    quantity ,  
+    shelf_location , 
+    created_date , 
+    updated_date
+}
+borrowers
+{
+    id , 
+    SSN , 
+    name , 
+    email , 
+    registered_date , 
+    updated_date
+}
+/////////
+borrowers_request
+{
+    id , 
+    borrower_id , 
+    book_id , 
+    from_date , 
+    to_date , 
+    returned_date , 
+    is_returned , 
+    created_date , 
+    updated_date
+}
