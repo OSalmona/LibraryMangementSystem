@@ -32,11 +32,16 @@
 <h1>Database ERD</h1>
 <img src="https://github.com/OSalmona/LibraryMangementSystem/blob/main/utils/lms-ERD.png"/>
 <h1> APIs Documentation</h1>
+<p> 
 [Books APIs Documentation]("https://documenter.getpostman.com/view/13136417/2s9YsNdqGT")
+</p>
+<p>
 [Borrowers APIs Documentation]("https://documenter.getpostman.com/view/13136417/2s9YsNdqLy")
+</p>
+<p>
 [BorrowersRequests APIs Documentation]("https://documenter.getpostman.com/view/13136417/2s9YsNdqRH")
+</p>
+<p>
 [Reports APIs Documentation]("https://documenter.getpostman.com/view/13136417/2s9YsNdqRM")
-
-
-
+</p>
 
